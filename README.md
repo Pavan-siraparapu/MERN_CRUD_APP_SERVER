@@ -218,7 +218,7 @@ DELETE /books/:id
 
 ## 👤 Author
 
-**Nischal Aremanda**  
+**Pavan**  
 Backend & Full‑Stack Developer
 
 
